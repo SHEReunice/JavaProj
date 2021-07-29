@@ -1,0 +1,56 @@
+敏感词记录如下：
+https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html数据如下：
+java  出现  1次
+documen  出现  3次
+for  出现  15次
+all  出现  11次
+new  出现  0次
+基地  出现  0次
+学院  出现  0次
+中南大学  出现  0次
+教师  出现  0次
+
+https://docs.oracle.com/javase/7/docs/api/javax/swing/JTextArea.html数据如下：
+java  出现  35次
+documen  出现  12次
+for  出现  37次
+all  出现  13次
+new  出现  23次
+基地  出现  0次
+学院  出现  0次
+中南大学  出现  0次
+教师  出现  0次
+
+https://docs.oracle.com/javase/6/docs/api/java/lang/Object.html?is-external=true数据如下：
+java  出现  5次
+documen  出现  3次
+for  出现  73次
+all  出现  37次
+new  出现  1次
+基地  出现  0次
+学院  出现  0次
+中南大学  出现  0次
+教师  出现  0次
+
+https://www.csu.edu.cn/数据如下：
+java  出现  0次
+documen  出现  0次
+for  出现  0次
+all  出现  0次
+new  出现  0次
+基地  出现  2次
+学院  出现  43次
+中南大学  出现  23次
+教师  出现  1次
+
+https://www.csu.edu.cn/jsfl/jzg.htm数据如下：
+java  出现  0次
+documen  出现  0次
+for  出现  0次
+all  出现  0次
+new  出现  0次
+基地  出现  0次
+学院  出现  33次
+中南大学  出现  4次
+教师  出现  2次
+
